@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423547835882",
+    "firebase_url": "https://chatappkotlin-f5ddd-default-rtdb.firebaseio.com",
+    "project_id": "chatappkotlin-f5ddd",
+    "storage_bucket": "chatappkotlin-f5ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423547835882:android:ccdc85675be86828524e93",
+        "android_client_info": {
+          "package_name": "com.snuzj.chattogetherkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423547835882-bphlogl3qvn3k1q7otlnnmr5d6dplkp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgSV4g24EjZ6a2DkKYijDGr0wfF0N7XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423547835882-bphlogl3qvn3k1q7otlnnmr5d6dplkp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
