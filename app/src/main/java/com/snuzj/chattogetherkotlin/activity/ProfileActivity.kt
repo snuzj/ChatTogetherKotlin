@@ -58,6 +58,9 @@ class ProfileActivity : AppCompatActivity() {
         if(name.isEmpty()){
             Toast.makeText(this,"Hãy nhập tên của bạn",Toast.LENGTH_SHORT).show()
         }
+        else if(selectedImg == null){
+            Toast.makeText(this,"Thêm ảnh bằng cách nhấn vào biểu tượng",Toast.LENGTH_SHORT).show()
+        }
         else{
             uploadData()
         }
